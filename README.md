@@ -18,13 +18,15 @@
 
 |フォルダ名  |説明         |
 |:--        |:--         |
-|example/index.html       |目次    |
-|example/Chapter01       |1章の例題    |
-|example/Chapter02       |2章の例題    |
-|example/Chapter03       |3章の例題    |
+|Chapter02       |2章の例題    |
+|Chapter03       |3章の例題    |
 |...        |...         |
-|example/Chapter21       |21章の例題   |
-|example/ChapterA       |付録Aの例題   |
-|example/ChapterB       |付録Bの例題   |
+|Chapter21       |21章の例題   |
+|ChapterA       |付録Aの例題   |
+|ChapterB       |付録Bの例題   |
 
+<!--
+|index.html       |目次    |
+|Chapter01       |1章の例題    |
+-->
 
