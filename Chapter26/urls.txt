@@ -1,0 +1,4 @@
+http://localhost:4242
+http://localhost:4243
+http://dictj.com:4242
+

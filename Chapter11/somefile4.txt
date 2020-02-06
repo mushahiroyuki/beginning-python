@@ -1,0 +1,4 @@
+First line
+Second line
+Third line
+最後の行: おまけです

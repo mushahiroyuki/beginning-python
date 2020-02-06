@@ -1,0 +1,31 @@
+<website>
+  <page name="index" title="ホームページ">
+    <h1>私のホームページへようこそ</h1>
+
+    <p>こんにちは、みなさん。私の名前はミスター・ガンビー、そしてここが私のウェブサイトです。
+    私の関心事を披露しましょう。</p>
+
+    <ul>
+      <li><a href="interests/shouting.html">叫ぶこと</a></li>
+      <li><a href="interests/sleeping.html">眠ること</a></li>
+      <li><a href="interests/eating.html">食べること</a></li>
+    </ul>
+  </page>
+  <directory name="interests">
+    <page name="shouting" title="叫び">
+      <h1>ミスター・ガンビーの叫びのページ</h1>
+
+      <p>...</p>
+    </page>
+    <page name="sleeping" title="眠り">
+      <h1>ミスター・ガンビーの眠りのページ</h1>
+
+      <p>...</p>
+    </page>
+    <page name="eating" title="食事">
+      <h1>ミスター・ガンビーの食事のページ</h1>
+
+      <p>...</p>
+    </page>
+  </directory>
+</website>
