@@ -7,7 +7,7 @@
 <div>
 <ul>
   <li>	
-  例題のダウンロードは、ページ右上にある黄緑色のボタン［Clone or download］をクリックして、［Download ZIP］をクリックするのが簡単です。
+  例題のダウンロードは、ページ右上にある黄緑色のボタン［Clone or download］をクリックして、［Download ZIP］をクリックするのが簡単です（もちろん git cloneでもOKです）。
   </li>
   <li>
   本について詳しくは<a href="https://www.marlin-arms.com/support/beginning-python/">サポートページ</a>をご覧ください。
