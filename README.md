@@ -2,7 +2,7 @@
 
 ![表紙](https://www.marlin-arms.com/jpn/arts/books-small/beginning-python.png)
 
-[インプレス](https://www.ipress.co.jp/)発行の『[Python基礎＆実践プログラミング](https://www.marlin-arms.com/support/beginning-python/)』の例題用リポジトリです。
+[インプレス](https://www.impress.co.jp/)発行の『[Python基礎＆実践プログラミング](https://www.marlin-arms.com/support/beginning-python/)』の例題用リポジトリです。
 
 <div>
 <ul>
