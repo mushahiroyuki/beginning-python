@@ -21,7 +21,7 @@
 |Chapter02       |2章の例題    |
 |Chapter03       |3章の例題    |
 |...        |...         |
-|Chapter21       |21章の例題   |
+|Chapter27       |21章の例題   |
 |ChapterA       |付録Aの例題   |
 |ChapterB       |付録Bの例題   |
 
