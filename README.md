@@ -9,16 +9,8 @@
   <li>	
   例題のダウンロードは、ページ右上にある黄緑色のボタン［Clone or download］をクリックして、［Download ZIP］をクリックするのが簡単です。
   </li>
-	<!--
   <li>
-  出先やスマフォでソースコードを見たい場合は、<a href="https://www.marlin-arms.com/support/ljs3/example-mbl/index.html">スマフォ用のページ</a>をご覧ください。多くの例で実行結果の下にソースコードが表示されます。
-  </li>
-  <li>
-  node.jsはv6.9.5以降をご利用ください。
-  </li>
-	-->
-  <li>
-  本について詳しくは<a href="https://www.marlin-arms.com/support/begin-python/">サポートページ</a>をご覧ください。
+  本について詳しくは<a href="https://www.marlin-arms.com/support/beginning-python/">サポートページ</a>をご覧ください。
   </li>
 </div>
 
