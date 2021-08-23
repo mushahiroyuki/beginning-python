@@ -2,7 +2,7 @@
 
 ![表紙](https://www.marlin-arms.com/jpn/arts/books-small/beginning-python.png)
 
-[インプレス](https://book.impress.co.jp/books/1118101039)発行の『[Python基礎＆実践プログラミング](https://www.marlin-arms.com/support/beginning-python/)』の例題用リポジトリです。
+[インプレス](https://book.impress.co.jp/books/1118101039)発行の『[Python基礎＆実践プログラミング](https://www.marlin-arms.com/support/beginning-python/)』（Magnus Lie Hetland 著、武舎広幸+阿部和也+上西昌弘 訳、松浦健一郎+司ゆき 監修）の例題用リポジトリです。
 
 <div>
 <ul>
