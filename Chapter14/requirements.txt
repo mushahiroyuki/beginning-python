@@ -52,7 +52,7 @@ tqdm==4.66.3
 typing_extensions==4.6.3
 tzdata==2023.3
 tzlocal==5.0.1
-urllib3==2.2.2
+urllib3==2.5.0
 validators==0.20.0
 Werkzeug==3.0.6
 yarl==1.9.2
